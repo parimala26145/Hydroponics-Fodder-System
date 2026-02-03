@@ -114,9 +114,9 @@ This project can be further enhanced by:
 
 ## Project Files Included
 
-- 📄 Hydroponics Code Documentation  
-- 📄 Project Report  
-- 📄 System Design and Development Details  
+- Hydroponics Code Documentation  
+-  Project Report  
+-  System Design and Development Details  
 
 ---
 
