@@ -72,9 +72,9 @@ Solar energy is used to power essential components like pumps, sensors, and moni
 - Solar Panel  
 - Water Pump  
 - Hydroponic Trays/Growth Chamber  
-- Nutrient Solution Tank  
-- Sensors (Temperature, Humidity, Water Level)  
-- Microcontroller (Arduino/ESP32)  
+- Water Tank  
+- Sensors (Temperature, Humidity)  
+- Microcontroller (ESP32)  
 - Battery Storage Unit  
 - Automated Monitoring System  
 
